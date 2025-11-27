@@ -1,13 +1,12 @@
-# 👋 Hola, soy Cristian Cuadrado  
-### Full Stack & Backend Developer | Docente de IA | 15+ años creando software y formando programadores
+# 👋 Hola, soy Cristian C. Cuadrado
 
-📍 Cartagena, Colombia  
-📧 3cbsoluciones@gmail.com  
-📱 +57 317-058-2873  
-🔗 LinkedIn: https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/  
-🔗 Portafolio: https://backend3cb.xyz/  
-🔗 GitHub: https://github.com/cr1085  
+### Full Stack Engineer (Python/Java) | CEO 3CB Soluciones | Especialista en Rescate Web y Arquitectura de Datos | Docente MinTIC / ACIS
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-VerProyectos-000000?style=for-the-badge&logo=visual-studio-code)](https://backend3cb.xyz/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/573170582873)
+
+<br>
 ---
 
 ## 🚀 Sobre mí
