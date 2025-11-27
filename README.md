@@ -8,7 +8,7 @@
 
 <br>
 ---
-## 🚀 Sobre mí
+##Sobre mí
 
 Soy **Full Stack & Backend Developer** con más de **15 años de experiencia** en desarrollo de software, Inteligencia Artificial y formación técnica. Mi trayectoria incluye:
 
