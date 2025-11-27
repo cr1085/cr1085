@@ -8,11 +8,13 @@
 
 <br>
 ---
-
 ## 🚀 Sobre mí
 
-Soy **Full Stack & Backend Developer** con más de **15 años de experiencia** en desarrollo de software, Inteligencia Artificial, capacitación técnica y creación de herramientas digitales.  
-He sido:
+Soy **Full Stack & Backend Developer** con más de **15 años de experiencia** en desarrollo de software, Inteligencia Artificial y formación técnica. Mi trayectoria incluye:
+
+* **Ingeniería de Sistemas y Liderazgo:** Coordinación de desarrollo en universidades e instructor de programación competitiva (ACIS).
+* **Seguridad y Eficiencia:** Experiencia en proyectos Full Stack que requieren seguridad y optimización de bases de datos.
+* **CEO & Fundador de 3CB Soluciones:** Mi misión es transformar problemas complejos (errores críticos, lentitud web) en soluciones que generen alto impacto y rentabilidad.
 
 - 👨‍🏫 **Docente del programa Talento Tech – MinTIC** en Java, React, Node.js e IA.  
 - 🧠 **Instructor de Inteligencia Artificial básica y avanzada.**  
