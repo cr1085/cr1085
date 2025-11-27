@@ -9,13 +9,15 @@
 <br>
 ---
 
-##Sobre mí
+## Sobre mí
 
 Soy **Full Stack & Backend Developer** con más de **15 años de experiencia** en desarrollo de software, Inteligencia Artificial y formación técnica. Mi trayectoria incluye:
 
 * **Ingeniería de Sistemas y Liderazgo:** Coordinación de desarrollo en universidades e instructor de programación competitiva (ACIS).
 * **Seguridad y Eficiencia:** Experiencia en proyectos Full Stack que requieren seguridad y optimización de bases de datos.
 * **CEO & Fundador de 3CB Soluciones:** Mi misión es transformar problemas complejos (errores críticos, lentitud web) en soluciones que generen alto impacto y rentabilidad.
+
+### Un poco de esto y aquello: 
 
 - 👨‍🏫 **Docente del programa Talento Tech – MinTIC** en Java, React, Node.js e IA.  
 - 🧠 **Instructor de Inteligencia Artificial básica y avanzada.**  
@@ -28,6 +30,13 @@ Mi pasión: **convertir ideas en software real**, formar nuevos programadores y 
 ---
 
 ## 🛠️ Tecnologías y herramientas
+
+
+* **Lenguajes de Base:** Python • Java • JavaScript • TypeScript • PHP • GDScript (12 Lenguajes de Base)
+* **Frameworks Core:** React • Angular • Node.js • **Laravel** • **Ionic**
+* **Desarrollo Backend:** Django • Flask • API REST
+* **Bases de Datos:** PostgreSQL • MySQL • MongoDB
+* **Especialización:** IA / Machine Learning, Desarrollo de Videojuegos (Godot Engine).
 
 ### **Lenguajes**
 Java • JavaScript • TypeScript • Python • PHP • GDScript • C • C++ • C# • SwiftUI • VB6 • VB.NET
@@ -112,9 +121,14 @@ Linux • Excel avanzado • Word avanzado • WatchGuard • Android
 
 ## 🎯 Busco
 
+* **RESCATE WEB DE EMERGENCIA (24H):** Corrección de fallos críticos (SSL, Rendimiento, Errores 500) para pymes y consultorías.
+* **Desarrollo Full Stack Remoto:** Proyectos robustos en Python/Java.
+* **Mentorías 1:1:** Guía y formación a desarrolladores y estudiantes.
+
+  
 - 🔍 **Trabajo remoto** (Backend / Full Stack / Instructor IA)  
-- 🤝 Proyectos freelance serios  
-- 👨‍🏫 Colaboraciones en formación, IA y desarrollo  
+- 🤝 **Proyectos freelance serios**  
+- 👨‍🏫 **Colaboraciones en formación, IA y desarrollo**  
 
 ---
 
