@@ -5,9 +5,24 @@
 ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/SCRIPT.png)
 
 
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-VerProyectos-000000?style=for-the-badge&logo=visual-studio-code)](https://cr1085.github.io/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/573170582873) -->
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-VerProyectos-000000?style=for-the-badge&logo=visual-studio-code)](https://cr1085.github.io/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/573170582873)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Contenido-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/intl/es_es/creators/how-things-work/getting-started/)
+[![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/desde/)
+[![TikTok](https://img.shields.io/badge/TikTok-Tutoriales-69C9D0?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/es-419/)
+[![Twitch](https://img.shields.io/badge/Twitch-Streaming-9146FF?style=for-the-badge&logo=twitch)](https://www.youtube.com/watch?v=5M794S0-8GU)
+[![Discord](https://img.shields.io/badge/Discord-Comunidad-5865F2?style=for-the-badge&logo=discord)](https://discord.com/)
+[![Reddit](https://img.shields.io/badge/Reddit-Debates-FF4500?style=for-the-badge&logo=reddit)](https://www.reddit.com/r/Spanish/comments/110zqd/tu_vs_usted/)
+
+[![Gumroad](https://img.shields.io/badge/Gumroad-Microcursos-FF90E8?style=for-the-badge&logo=gumroad)](https://www.youtube.com/watch?v=0R-2XPVhwh8)
+[![Hotmart](https://img.shields.io/badge/Hotmart-Cursos-F04E23?style=for-the-badge&logo=hotmart)](https://hotmart.com/es/marketplace)
 
 <br>
 
