@@ -1,6 +1,6 @@
 # 👋 Hola, soy Cristian C. Cuadrado
 
-### Full Stack Engineer (Python/Java) | CEO 3CB Soluciones | Especialista en Rescate Web y Arquitectura de Datos | Docente MinTIC / ACIS
+### CEO 3CB Soluciones | Full Stack Expert (Python/Django, Laravel, Angular) | Arreglo Web de Emergencia (SSL, Caídas) en 24H | 12 Lenguajes de Base
 
 ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/SCRIPT.png)
 
