@@ -1,6 +1,6 @@
 # 👋 Hola, soy Cristian C. Cuadrado  
 ### Full Stack Senior • Backend Specialist • CEO 3CB Soluciones  
-### 🚑 Especialista en *Rescate Web 24H* (SSL, caídas, lentitud, errores 500)
+### Especialista en *Rescate Web 24H* (SSL, caídas, lentitud, errores 500)
 
 ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/SCRIPT.png)
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 ¿Quién soy?
+## ¿Quién soy?
 
 Soy **Full Stack & Backend Developer con 15+ años de experiencia**, especializado en:
 
@@ -33,7 +33,7 @@ Mi lema es simple:
 
 ---
 
-# 🆘 ⭐ PLAN OXÍGENO — Rescate Web 24H
+#  PLAN OXÍGENO — Rescate Web 24H
 
 Muchos negocios pierden clientes por webs:
 
@@ -50,7 +50,7 @@ Muchos negocios pierden clientes por webs:
 
 Por eso creé el **Plan Oxígeno**:
 
-### 🔧 ¿Qué incluye?
+###  ¿Qué incluye?
 
 - Reparación de errores críticos  
 - Restauración de backups  
@@ -61,7 +61,7 @@ Por eso creé el **Plan Oxígeno**:
 - Optimización de base de datos  
 - Revisión completa en 24H  
 
-### 🔥 Resultados típicos:
+###  Resultados típicos:
 - Páginas 3× más rápidas  
 - De 20 errores críticos → 0  
 - SEO real con impacto en Google Maps  
@@ -71,7 +71,7 @@ Por eso creé el **Plan Oxígeno**:
 
 ---
 
-# 💼 ¿Qué más puedo hacer?
+#  ¿Qué más puedo hacer?
 
 ### ✔ Desarrollo Full Stack (Python, Django, Laravel, Node.js, Angular, React)  
 ### ✔ APIs robustas y seguras  
@@ -83,7 +83,7 @@ Por eso creé el **Plan Oxígeno**:
 
 ---
 
-# 🛠️ Tecnologías y Skills
+#  Tecnologías y Skills
 
 **Lenguajes:**  
 Python · Java · JavaScript · TypeScript · PHP · GDScript · C/C++ · C# · SwiftUI · VB  
@@ -105,7 +105,7 @@ Git · Linux · Integraciones API · Seguridad Web
 
 ---
 
-# ⭐ Proyectos Destacados
+#  Proyectos Destacados
 
 | Proyecto | Tecnologías | Descripción |
 |---------|-------------|-------------|
@@ -117,7 +117,7 @@ Git · Linux · Integraciones API · Seguridad Web
 
 ---
 
-# 🏆 Logros relevantes
+# Algunos logros relevantes
 
 - Más de **350 estudiantes** formados (Java, React, Node.js e IA).  
 - Entrenador y participante en competencias ACIS nacionales e internacionales.  
@@ -126,18 +126,18 @@ Git · Linux · Integraciones API · Seguridad Web
 
 ---
 
-# 🤝 ¿Hablamos?
+#  ¿Hablamos?
 
-📲 **Rescate Web (24H):**  
+ **Rescate Web (24H):**  
 **https://wa.me/573170582873**
 
-🌐 **Portafolio:**  
+ **Portafolio:**  
 https://cr1085.github.io/
 
-💼 **LinkedIn:**  
+ **LinkedIn:**  
 https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/
 
 ---
 
-## ✨ Mi misión  
+##  Mi misión  
 **Transformar problemas en soluciones, y dejar huella a través del software.**  
