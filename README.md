@@ -91,8 +91,9 @@ Por eso creé el **Plan Oxígeno**:
 
 # Aportes para la comunidad
 
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/javanovatos.png)
 
-
+[![Java para novatos](https://img.shields.io/badge/Portafolio-Proyectos-000000?style=for-the-badge&logo=visual-studio-code)](https://github.com/cr1085/SortingVisualizer)
 
 
 ---
