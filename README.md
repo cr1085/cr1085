@@ -128,14 +128,16 @@ Git · Linux · Integraciones API · Seguridad Web
 
 #  ¿Hablamos?
 
+# Contactos principales
+
  **Rescate Web (24H):**  
-**https://wa.me/573170582873**
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/573170582873)
 
  **Portafolio:**  
-https://cr1085.github.io/
+[![Portafolio](https://img.shields.io/badge/Portafolio-Proyectos-000000?style=for-the-badge&logo=visual-studio-code)](https://cr1085.github.io/)
 
  **LinkedIn:**  
-https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/)
 
 ---
 
