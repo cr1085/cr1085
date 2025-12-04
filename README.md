@@ -86,7 +86,12 @@ Por eso creé el **Plan Oxígeno**:
 ### ✔ Consultoría técnica para empresas y startups  
 
 ---
-# Aporte para la comunidad
+
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/emoji.png)
+
+# Aportes para la comunidad
+
+
 
 
 
