@@ -157,3 +157,7 @@ Git · Linux · Integraciones API · Seguridad Web
 
 ##  Mi misión  
 **Transformar problemas en soluciones, y dejar huella a través del software.**  
+
+---
+
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/header.png)
