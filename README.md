@@ -1,159 +1,90 @@
-# 👋 Hola, soy Cristian C. Cuadrado
+ # 👋 Hola, soy Cristian C. Cuadrado
 
-### CEO 3CB Soluciones | Full Stack Expert (Python/Django, Laravel, Angular) | Arreglo Web de Emergencia (SSL, Caídas) en 24H | 12 Lenguajes de Base
+ ### CEO · Full Stack & Backend Developer · Instructor · Especialista en Rescates Web 24H
 
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/SCRIPT.png)
+ ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/SCRIPT.png)
 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/)
+ [![Portafolio](https://img.shields.io/badge/Portafolio-VerProyectos-000000?style=for-the-badge&logo=visual-studio-code)](https://cr1085.github.io/)
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/573170582873)
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-VerProyectos-000000?style=for-the-badge&logo=visual-studio-code)](https://cr1085.github.io/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/573170582873) -->
+ **Descarga mi CV:** [Hoja_de_vida_Cristian_Cuadrado.pdf](./Hoja_de_vida_Cristian_Cuadrado.pdf)
 
+ ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-VerProyectos-000000?style=for-the-badge&logo=visual-studio-code)](https://cr1085.github.io/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/573170582873)
+ ## ¿Qué hago? 🎯
 
-[![YouTube](https://img.shields.io/badge/YouTube-Contenido-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/intl/es_es/creators/how-things-work/getting-started/)
-[![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/desde/)
-[![TikTok](https://img.shields.io/badge/TikTok-Tutoriales-69C9D0?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/es-419/)
-[![Twitch](https://img.shields.io/badge/Twitch-Streaming-9146FF?style=for-the-badge&logo=twitch)](https://www.youtube.com/watch?v=5M794S0-8GU)
-[![Discord](https://img.shields.io/badge/Discord-Comunidad-5865F2?style=for-the-badge&logo=discord)](https://discord.com/)
-[![Reddit](https://img.shields.io/badge/Reddit-Debates-FF4500?style=for-the-badge&logo=reddit)](https://www.reddit.com/r/Spanish/comments/110zqd/tu_vs_usted/)
+ - Transformo problemas críticos en soluciones rápidas y seguras: SSL, errores 500, caídas y optimización de rendimiento.
+ - Desarrollo productos escalables (APIs, PWAs, sistemas de ventas) usando buenas prácticas y arquitectura limpia.
+ - Formo y mentoro desarrolladores en Java, JavaScript, Node.js y conceptos de IA.
 
-[![Gumroad](https://img.shields.io/badge/Gumroad-Microcursos-FF90E8?style=for-the-badge&logo=gumroad)](https://www.youtube.com/watch?v=0R-2XPVhwh8)
-[![Hotmart](https://img.shields.io/badge/Hotmart-Cursos-F04E23?style=for-the-badge&logo=hotmart)](https://hotmart.com/es/marketplace)
+ ---
 
-<br>
+ ## Servicios destacados
 
+ - **Rescate Web 24H:** Atención urgente para SSL, errores críticos, alimentación de backups y restablecimiento de servicios.
+ - **Desarrollo Full Stack:** Backends robustos (Python/Django, Laravel), frontends modernos (Angular, React).
+ - **Mentorías & Formación:** Programas 1:1 y grupales, preparación para maratones ACIS.
 
-## Sobre mí
+ ---
 
-Soy **Full Stack & Backend Developer** con más de **15 años de experiencia** en desarrollo de software, Inteligencia Artificial y formación técnica. Mi trayectoria incluye:
+ ## Tecnologías & Skills 🛠️
 
-* **Ingeniería de Sistemas y Liderazgo:** Coordinación de desarrollo en universidades e instructor de programación competitiva (ACIS).
-* **Seguridad y Eficiencia:** Experiencia en proyectos Full Stack que requieren seguridad y optimización de bases de datos.
-* **CEO & Fundador de 3CB Soluciones:** Mi misión es transformar problemas complejos (errores críticos, lentitud web) en soluciones que generen alto impacto y rentabilidad.
+ **Lenguajes:** Python · Java · JavaScript · TypeScript · PHP · GDScript · C/C++ · C# · SwiftUI · VB
 
-### Un poco de esto y aquello: 
+ **Backend:** Django · Flask · Laravel · Node.js · Express
 
-- 👨‍🏫 **Docente del programa Talento Tech – MinTIC** en Java, React, Node.js e IA.  
-- 🧠 **Instructor de Inteligencia Artificial básica y avanzada.**  
-- 🏆 **Entrenador de programación competitiva (ACIS)** a nivel nacional e internacional.  
-- 🏢 **Coordinador de Desarrollo de Software** en universidades.  
-- 🧰 **CEO & Fundador de 3CB Soluciones**, donde desarrollo soluciones a medida, optimización de procesos y videojuegos independientes.  
+ **Frontend:** Angular · React · HTML5 · CSS3 · SASS
 
-Mi pasión: **convertir ideas en software real**, formar nuevos programadores y desarrollar soluciones que impacten.
+ **Bases de datos:** PostgreSQL · MySQL · MongoDB · Firebase
 
----
+ **IA / ML:** Jupyter · Google Colab · ML / DL básico-avanzado
 
-## 🛠️ Tecnologías y herramientas
+ **Otras:** Git · Linux · Excel avanzado · Integraciones API · Seguridad web
 
+ ---
 
-* **Lenguajes de Base:** Python • Java • JavaScript • TypeScript • PHP • GDScript (12 Lenguajes de Base)
-* **Frameworks Core:** React • Angular • Node.js • **Laravel** • **Ionic**
-* **Desarrollo Backend:** Django • Flask • API REST
-* **Bases de Datos:** PostgreSQL • MySQL • MongoDB
-* **Especialización:** IA / Machine Learning, Desarrollo de Videojuegos (Godot Engine).
+ ## Experiencia seleccionada
 
-### **Lenguajes**
-Java • JavaScript • TypeScript • Python • PHP • GDScript • C • C++ • C# • SwiftUI • VB6 • VB.NET
+ - **CEO & Founder — 3CB Soluciones** (2016 – Actualidad) · Cartagena
+	 - Desarrollo de soluciones a medida, optimización y videojuegos indie.
 
-### **Frameworks / Librerías**
-React • Angular • Node.js • Laravel • Ionic • jQuery • AJAX
+ - **Docente Ejecutor — Talento Tech (MinTIC)** (2024 – Actualidad)
+	 - Formación en Java, React, Node.js e IA. Preparación para competencias ACIS.
 
-### **Bases de datos**
-PostgreSQL • MySQL • MongoDB • Firebase
+ - **Coordinador de Desarrollo — Universidad del Sinú** (2022 – 2025)
+	 - Dirección técnica y despliegue de soluciones académicas.
 
-### **Desarrollo de videojuegos**
-Godot Engine (GDScript)
+ - **Desarrollador Senior — Zuky Tech** (2023 – 2025)
+	 - PWAs y apps móviles; optimización de rendimiento.
 
-### **Frontend & Backend**
-HTML5 • CSS • SCSS • SASS • Markdown
+ ---
 
-### **IA / Machine Learning**
-Jupyter Notebook • Google Colab • ML • DL
+ ## Proyectos destacados
 
-### **Otras herramientas**
-Linux • Excel avanzado • Word avanzado • WatchGuard • Android
+ | Proyecto | Tecnologías | Descripción |
+ |---|---:|---|
+ | Sistema de Ventas | PHP · Laravel · PostgreSQL | Gestión de ventas, inventario y reportes para pymes. |
+ | App de Tareas | Angular · Node.js · JWT | SPA con autenticación y backend REST. |
+ | Auto Backup Script | Python | Automatización de respaldos diarios de bases de datos. |
+ | Videojuego Indie | Godot · GDScript | Prototipos y lógica de IA para gameplay. |
+ | API REST Modular | Node.js · Express · MongoDB | API escalable con arquitectura limpia. |
 
----
+ ---
 
-## 💼 Experiencia Destacada
+ ## Logros & Reconocimientos 🏆
 
-### **Docente Ejecutor – Talento Tech | MinTIC**  
-2024 – Actualidad  
-- Formación en **Java, React y Node.js**.  
-- Docente de **IA básica y avanzada**.  
-- Entrenador para maratones de programación (ACIS).
+ - Instructor de más de **350 estudiantes** en desarrollo e IA.
+ - Participación y coaching en maratones de programación **ACIS**.
+ - Implementación de sistemas que optimizaron procesos en múltiples empresas.
 
-### **CEO & Fundador – 3CB Soluciones**  
-2016 – Actualidad | Cartagena  
-- Desarrollo de herramientas tecnológicas y videojuegos indie.  
-- Asesoría y optimización de procesos para empresas.
+ ---
 
-### **Coordinador de Desarrollo de Software – Universidad del Sinú**  
-2022 – 2025 | Cartagena  
-- Dirección técnica del equipo de desarrollo.  
-- Implementación de soluciones académicas y administrativas.
+ ## ¿Quieres contratarme o hablar de un proyecto? 🤝
 
-### **Desarrollador Senior – Zuky Tech**  
-2023 – 2025 | Remoto  
-- Desarrollo de **PWAs y apps móviles**.  
-- Integraciones y optimización de rendimiento.
+ - **Rescate urgente (24H):** Envíame un WhatsApp: [https://wa.me/573170582873](https://wa.me/573170582873)
+ - **Proyectos y consultoría:** Contacto en LinkedIn: [Perfil](https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/)
+ - **Portafolio:** https://cr1085.github.io/
 
-### **Docente / Líder de Desarrollo – Corporación Rafael Núñez**  
-2018 – 2022 | Cartagena  
-- Desarrollo de software institucional (SGI).  
-- Formación de nuevos desarrolladores.
-
-### **Desarrollador Senior – CIC Colombia**  
-2017 | Bogotá  
-- Desarrollo corporativo con .NET.
-
-### **Ingeniero de Sistemas – Autobiseles**  
-2013 – 2014 | Cartagena  
-- Soporte, inventarios y desarrollo web (PHP + SQL).
-
----
-
-## 🏆 Logros & Reconocimientos
-
-- Participación en maratones de programación **ACIS** nacionales e internacionales.  
-- Instructor de más de **350 estudiantes** en programación, IA y desarrollo de software.  
-- Implementación de sistemas que optimizaron procesos en **más de 5 empresas**.
-
----
-
-## 📂 Proyectos Destacados (Pinned)
-
-| Proyecto | Tecnologías | Descripción |
-|---------|-------------|-------------|
-| **Sistema de Ventas** | PHP • Laravel • PostgreSQL | Gestión de ventas, inventario y reportes para pymes. |
-| **App de Tareas Angular** | Angular • Node.js • JWT | SPA moderna con login y backend REST. |
-| **Auto Backup Script** | Python | Automatiza respaldos diarios de bases de datos. |
-| **Videojuego Indie (Godot)** | GDScript • Godot Engine | Prototipos de mecánicas y lógicas de IA. |
-| **API REST Modular** | Node.js • Express • MongoDB | API escalable con arquitectura limpia. |
-
----
-
-## 🎯 Busco
-
-* **RESCATE WEB DE EMERGENCIA (24H):** Corrección de fallos críticos (SSL, Rendimiento, Errores 500) para pymes y consultorías.
-* **Desarrollo Full Stack Remoto:** Proyectos robustos en Python/Java.
-* **Mentorías 1:1:** Guía y formación a desarrolladores y estudiantes.
-
-  
-- 🔍 **Trabajo remoto** (Backend / Full Stack / Instructor IA)  
-- 🤝 **Proyectos freelance serios**  
-- 👨‍🏫 **Colaboraciones en formación, IA y desarrollo**  
-
----
-
-## ✨ Mi misión
-
-**Crear soluciones que transformen, enseñar con propósito y dejar huella a través del software.**
-
-Si quieres colaborar, construir, aprender o crear algo juntos, **estoy listo para escucharte**.
-
+ 
 
