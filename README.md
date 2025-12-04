@@ -4,6 +4,10 @@
 
 ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/SCRIPT.png)
 
+---
+
+# Redes sociales
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Proyectos-000000?style=for-the-badge&logo=visual-studio-code)](https://cr1085.github.io/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/573170582873)
