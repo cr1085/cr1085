@@ -160,4 +160,4 @@ Git · Linux · Integraciones API · Seguridad Web
 
 ---
 
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/header.png)
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headertwo.png)
