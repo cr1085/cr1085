@@ -86,6 +86,11 @@ Por eso creé el **Plan Oxígeno**:
 ### ✔ Consultoría técnica para empresas y startups  
 
 ---
+# Aporte para la comunidad
+
+
+
+---
 
 #  Tecnologías y Skills
 
