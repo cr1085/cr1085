@@ -137,6 +137,7 @@ Gracias por la comprensión y por apoyar este proyecto. 💛
 
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-java-181717?style=for-the-badge&logo=github)](https://github.com/cr1085/JavaClassRepository) -->
 
+---
 
 ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerventas.png)
 
