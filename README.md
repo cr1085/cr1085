@@ -13,6 +13,9 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/573170582873)
 [![CV](https://img.shields.io/badge/CV-Descargar-FFB800?style=for-the-badge)](./Hoja_de_vida_Cristian_Cuadrado.pdf)
 [![YouTube](https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@3cb587)
+[![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3cbsoluciones/)
+[![Discord](https://img.shields.io/badge/Discord-Unirse-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6vV7d9Qw)
+[![TikTok](https://img.shields.io/badge/TikTok-Seguir-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@cristian_dev16)
 
 ---
 
