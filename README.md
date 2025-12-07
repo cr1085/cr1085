@@ -147,6 +147,11 @@ Gracias por la comprensión y por apoyar este proyecto. 💛
 
 [![github](https://img.shields.io/badge/github-java-181717?style=for-the-badge&logo=github)](https://github.com/cr1085/salesmind_version_3.0.0)
 
+
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerlexia.png)
+
+[![github](https://img.shields.io/badge/github-java-181717?style=for-the-badge&logo=github)](https://github.com/cr1085/LexIA-Junior-PostgreSQL)
+
 ---
 
 #  Tecnologías y Skills
