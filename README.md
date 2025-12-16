@@ -120,6 +120,7 @@ Gracias por la comprensión y por apoyar este proyecto. 💛
 ---
 
 ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headernode.png)
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerroadmapnodejs.png)
 
 [![github](https://img.shields.io/badge/github-node-181717?style=for-the-badge&logo=github)](https://github.com/cr1085/NodeRepository)
 
