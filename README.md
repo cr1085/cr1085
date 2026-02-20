@@ -81,10 +81,6 @@ Por eso creé el **Plan Oxígeno**:
 
 ---
 
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/infografiachatgpt.png)
-
-
----
 
 #  ¿Qué más puedo hacer?
 
@@ -115,6 +111,9 @@ Mi objetivo con este repositorio es aportar a la comunidad, compartir conocimien
 Gracias por la comprensión y por apoyar este proyecto. 💛
 
 ---
+
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/infografiachatgpt.png)
+
 
 ---
 
