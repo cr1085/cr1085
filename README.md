@@ -98,19 +98,6 @@ Por eso creé el **Plan Oxígeno**:
 
 ---
 
-⚠️ Nota sobre la calidad del audio
-
-Algunos de los videos de estos cursos pueden tener un audio que no es totalmente profesional.
-Actualmente no cuento con equipos de grabación avanzados, pero quiero dejar claro que:
-
-👉 el contenido es completamente entendible,
-👉 cada explicación está bien desarrollada,
-👉 y puedes estudiar sin problema con el material disponible.
-
-Mi objetivo con este repositorio es aportar a la comunidad, compartir conocimiento real y ayudar a más personas a aprender Java y los otros lenguajes que he aprendido a lo largo de mi carrera, incluso con recursos limitados.
-Gracias por la comprensión y por apoyar este proyecto. 💛
-
----
 
 ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/infografiachatgpt.png)
 
@@ -125,6 +112,21 @@ Gracias por la comprensión y por apoyar este proyecto. 💛
 
 
 ---
+
+⚠️ Nota sobre la calidad del audio
+
+Algunos de los videos de estos cursos pueden tener un audio que no es totalmente profesional.
+Actualmente no cuento con equipos de grabación avanzados, pero quiero dejar claro que:
+
+👉 el contenido es completamente entendible,
+👉 cada explicación está bien desarrollada,
+👉 y puedes estudiar sin problema con el material disponible.
+
+Mi objetivo con este repositorio es aportar a la comunidad, compartir conocimiento real y ayudar a más personas a aprender Java y los otros lenguajes que he aprendido a lo largo de mi carrera, incluso con recursos limitados.
+Gracias por la comprensión y por apoyar este proyecto. 💛
+
+---
+
 
 # Aportes para la comunidad
 
