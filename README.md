@@ -13,6 +13,7 @@
 [![Portafolio](https://img.shields.io/badge/Portafolio-Proyectos-000000?style=for-the-badge&logo=visual-studio-code)](https://cr1085.github.io/)
 [![Promptgenerate](https://img.shields.io/badge/Portafolio-Prompt_generate-000000?style=for-the-badge&logo=visual-studio-code)](https://cr1085.github.io/prompt-generate/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/573170582873)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Canal-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAyIhDAjPXUVJr5LE3z)
 [![CV](https://img.shields.io/badge/CV-Descargar-FFB800?style=for-the-badge)](./Hoja_de_vida_Cristian_Cuadrado.pdf)
 [![YouTube](https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@3cb587)
 [![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3cbsoluciones/)
