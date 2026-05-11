@@ -1,6 +1,8 @@
 # 👋 Hola, soy Cristian C. Cuadrado  
 ### Software Engineer Senior | Backend Architect | AI & Vibe Coding Specialist  
 ### CEO & Founder en 3CB Soluciones 
+### Creator of LoveIA — AI-powered emotional interaction platform.
+[![LoveIA](https://img.shields.io/badge/LoveIA-AI_Platform-ff4da6?style=for-the-badge&logo=rocket&logoColor=white)](https://cr1085.github.io/prompt-generate/)
 <!-- ### Especialista en *Rescate Web 24H* (SSL, caídas, lentitud, errores 500) -->
 
 ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/SCRIPT.png)
