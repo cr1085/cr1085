@@ -43,6 +43,158 @@ Mi lema es simple:
 **Tu web vuelve a la vida en menos de 24 horas o no cobras.**
 
 ---
+#  Expereiencia profesional
+
+## Docente Ejecutor — Talento Tech MinTIC
+**2024 – 2026 | Colombia**
+
+- Formación en desarrollo de software con Java, React y Node.js
+- Capacitación en Inteligencia Artificial aplicada
+- Mentoría en programación competitiva y optimización algorítmica
+- Acompañamiento técnico a estudiantes y equipos de desarrollo
+- Diseño de experiencias de aprendizaje enfocadas en proyectos reales
+
+**Tecnologías:** Java, React, Node.js, IA, Git, PostgreSQL
+
+---
+
+## CEO & Founder — 3CB Soluciones
+**2016 – Actualidad | Cartagena, Colombia**
+
+- Desarrollo de soluciones digitales escalables
+- Creación de herramientas SaaS y automatización empresarial
+- Desarrollo de videojuegos indie y productos tecnológicos
+- Consultoría tecnológica para optimización de procesos
+- Arquitectura de software y liderazgo técnico
+
+**Tecnologías:** Laravel, React, Node.js, PostgreSQL, Python, IA
+
+---
+
+## Coordinador de Desarrollo de Software / Docente — Universidad del Sinú
+**2022 – 2025 | Cartagena, Colombia**
+
+- Dirección del área de desarrollo de software
+- Supervisión de equipos multidisciplinarios
+- Arquitectura de software y aseguramiento de calidad
+- Optimización de procesos académicos y administrativos
+- Formación universitaria en programación y desarrollo de software
+
+**Tecnologías:** PHP, Laravel, PostgreSQL, JavaScript, React
+
+---
+
+## Senior Developer — Zuky Tech
+**2023 – 2025 | Remote**
+
+- Desarrollo de aplicaciones PWA de alto rendimiento
+- Optimización frontend y backend
+- Integración de sistemas empresariales
+- Mejora de escalabilidad y performance
+
+**Tecnologías:** React, TypeScript, Node.js, APIs REST
+
+---
+
+## Docente e Ingeniero de Sistemas / Líder de Desarrollo SGI — Corporación Universitaria Rafael Núñez
+**2018 – 2022 | Cartagena, Colombia**
+
+- Desarrollo de soluciones tecnológicas para SGI
+- Formación académica en programación
+- Liderazgo técnico en proyectos institucionales
+- Desarrollo y mantenimiento de plataformas educativas
+
+**Tecnologías:** PHP, JavaScript, MySQL, HTML, CSS
+
+---
+
+## Desarrollador Senior — CIC Colombia
+**2017 | Bogotá, Colombia**
+
+- Desarrollo de aplicaciones empresariales en .NET
+- Participación en proyectos corporativos
+- Optimización de procesos internos
+
+**Tecnologías:** .NET, SQL Server, C#
+
+---
+
+## Ingeniero de Sistemas — Autobiseles
+**2013 – 2014 | Cartagena, Colombia**
+
+- Soporte de infraestructura tecnológica
+- Gestión de redes e inventarios
+- Desarrollo de soluciones web en PHP y SQL
+
+**Tecnologías:** PHP, SQL, Redes, HTML
+
+---
+
+# Educacion & certificados
+
+## Ingeniería de Sistemas
+**Corporación Universitaria Rafael Núñez**  
+2012  
+Cartagena, Colombia
+
+### Programación de Páginas Web con HTML y JavaScript
+**SENA — 2009**
+
+- Desarrollo web con HTML y JavaScript
+- Fundamentos frontend
+- Programación web básica
+
+---
+
+## Certificaciones y Reconocimientos
+
+- Mentor Técnico — Talento Tech MinTIC
+- Docente Ejecutor — Talento Tech
+- Participación en maratones de programación ACIS
+- Formación en Inteligencia Artificial aplicada
+- Capacitación de más de 350 estudiantes en programación
+- Liderazgo de proyectos académicos y empresariales
+
+---
+
+# Technical Skills
+
+## Backend
+- Laravel
+- Node.js
+- Express
+- PHP
+- Java
+- Python
+
+## Frontend
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- TailwindCSS
+
+## Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Firebase
+
+## AI & Data
+- Machine Learning
+- Deep Learning
+- Jupyter Notebook
+- Google Colab
+
+## Tools & DevOps
+- Git
+- Linux
+- Docker
+- REST APIs
+- Agile Methodologies
+
+---
 
 #  PLAN OXÍGENO — Rescate Web 24H
 
