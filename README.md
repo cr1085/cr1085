@@ -1,434 +1,129 @@
-# 👋 Hola, soy Cristian C. Cuadrado  
-### Software Engineer Senior | Backend Architect | AI & Vibe Coding Specialist  
-### CEO & Founder en 3CB Soluciones 
-### Creator of LoveIA — AI-powered emotional interaction platform.
-[![LoveIA](https://img.shields.io/badge/LoveIA-AI_Platform-ff4da6?style=for-the-badge&logo=rocket&logoColor=white)](https://cr1085.github.io/prompt-generate/)
-<!-- ### Especialista en *Rescate Web 24H* (SSL, caídas, lentitud, errores 500) -->
+<div align="center">
 
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/SCRIPT.png)
+<img src="assets/github-cyber-banner.png" alt="Cyber technology banner representing software engineering, AI and global connectivity" width="100%" />
 
----
+# CRISTIAN C. CUADRADO
 
-# Redes sociales
+### Senior Software Engineer · AI Developer · Backend Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Proyectos-000000?style=for-the-badge&logo=visual-studio-code)](https://cr1085.github.io/)
-[![Promptgenerate](https://img.shields.io/badge/Portafolio-Prompt_generate-000000?style=for-the-badge&logo=visual-studio-code)](https://cr1085.github.io/prompt-generate/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/573170582873)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Canal-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAyIhDAjPXUVJr5LE3z)
-[![CV](https://img.shields.io/badge/CV-Descargar-FFB800?style=for-the-badge)](./Hoja_de_vida_Cristian_Cuadrado.pdf)
-[![YouTube](https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@3cb587)
-[![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3cbsoluciones/)
-[![Discord](https://img.shields.io/badge/Discord-Unirse-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6vV7d9Qw)
-[![TikTok](https://img.shields.io/badge/TikTok-Seguir-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@cristian_dev16)
+**I build reliable software, practical AI systems and digital products.**
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=07111F)](https://cr1085.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/)
+[![Contact](https://img.shields.io/badge/CONTACT-00D9FF?style=for-the-badge&logo=whatsapp&logoColor=07111F)](https://wa.me/573170582873)
+
+**FOUNDER · 3CB SOLUCIONES TECNOLÓGICAS**  
+Cartagena, Colombia · Open to remote roles and collaborations worldwide
+
+[English](README.md) · [Español](README.es.md)
+
+</div>
 
 ---
 
-## ¿Quién soy?
+## / ABOUT
 
-Soy **Full Stack & Backend Developer con 15+ años de experiencia**, especializado en:
+I'm a systems engineer, software developer and technical educator with **15+ years of experience** across software development, technical leadership and education.
 
-- Desarrollo de software escalable  
-- Infraestructura web segura  
-- Optimización de rendimiento  
-- IA aplicada y automatización  
-- Mentoría y formación técnica  
+I work across backend engineering, web applications, AI-enabled products, automation and technical training. I enjoy turning complex requirements into maintainable software and helping teams move from idea to implementation.
 
-Además, soy **CEO y fundador de 3CB Soluciones**, donde ayudo a empresas a:
+- **Engineering:** backend systems, APIs, integrations and application architecture.
+- **Applied AI:** retrieval-augmented generation (RAG), embeddings, AI assistants and agent workflows.
+- **Product development:** web applications, PWAs, internal tools and digital products.
+- **Education:** programming, software engineering, AI and data analysis.
 
-✔ recuperar sitios web dañados  
-✔ mejorar su velocidad y posicionamiento  
-✔ corregir errores críticos que afectan ventas y reputación  
-✔ modernizar su presencia digital  
+I founded **3CB Soluciones Tecnológicas** to build practical digital solutions and support organizations with their technology challenges.
 
-Mi lema es simple:  
-**Tu web vuelve a la vida en menos de 24 horas o no cobras.**
+## / FOCUS AREAS
 
----
-#  Expereiencia profesional
+| Area | What I work on |
+|---|---|
+| Backend engineering | PHP, Laravel, Python, Node.js, REST APIs |
+| AI engineering | RAG, embeddings, AI assistants, agent workflows |
+| Web development | JavaScript, React, HTML, CSS, responsive applications |
+| Data | PostgreSQL, MySQL, Python and exploratory data analysis |
+| Delivery | Git, Linux, Docker, deployment and integrations |
+| Technical education | Programming, AI, data analysis and mentoring |
 
-## Docente Ejecutor — Talento Tech MinTIC
-<!-- **2024 – 2026 | Colombia** -->
+## / SELECTED WORK
 
-- Formación en desarrollo de software con Java, React y Node.js
-- Capacitación en Inteligencia Artificial aplicada
-- Mentoría en programación competitiva y optimización algorítmica
-- Acompañamiento técnico a estudiantes y equipos de desarrollo
-- Diseño de experiencias de aprendizaje enfocadas en proyectos reales
+A selection of public projects and experiments. Each repository documents its current scope and setup; some are works in progress.
 
-**Tecnologías:** Java, React, Node.js, IA, Git, PostgreSQL
+### AI & Intelligent Systems
 
----
+- **[RAG Notes](https://github.com/cr1085/rag-notes)** — A knowledge workspace concept with semantic search, embeddings and retrieval-augmented chat.  
+  `JavaScript` · `Supabase` · `PostgreSQL` · `pgvector` · `Transformers.js`
 
-## CEO & Founder — 3CB Soluciones
-<!-- **2016 – Actualidad | Cartagena, Colombia** -->
+- **[AI Edge Agents](https://github.com/cr1085/ai-edge-agents)** — An autonomous task-agent experiment covering planning, tool execution, memory and execution logs.  
+  `JavaScript` · `Supabase` · `LLM APIs`
 
-- Desarrollo de soluciones digitales escalables
-- Creación de herramientas SaaS y automatización empresarial
-- Desarrollo de videojuegos indie y productos tecnológicos
-- Consultoría tecnológica para optimización de procesos
-- Arquitectura de software y liderazgo técnico
+- **[SalesMind](https://github.com/cr1085/salesmind_version_3.0.0)** — A conversational sales assistant that retrieves information from business documents and connects to Telegram.  
+  `Python` · `Flask` · `FAISS` · `LangChain` · `Gemini`
 
-**Tecnologías:** Laravel, React, Node.js, PostgreSQL, Python, IA
+- **[Freelance AI Assistant](https://github.com/cr1085/asistente-freelance)** — An AI-assisted workspace concept for managing clients, projects and tasks.  
+  `Vanilla JavaScript` · `Supabase` · `PostgreSQL` · `AI provider abstraction`
 
----
+### Software Products & Engineering
 
-## Coordinador de Desarrollo de Software / Docente — Universidad del Sinú
-<!-- **2022 – 2025 | Cartagena, Colombia** -->
+- **[Foto Sym](https://github.com/cr1085/foto-sym)** — A photography booking and scheduling system with customer and administration workflows.  
+  `Laravel 12` · `PHP` · `MySQL` · `JavaScript`
 
-- Dirección del área de desarrollo de software
-- Supervisión de equipos multidisciplinarios
-- Arquitectura de software y aseguramiento de calidad
-- Optimización de procesos académicos y administrativos
-- Formación universitaria en programación y desarrollo de software
+- **[3CB AI Boilerplate](https://github.com/cr1085/3cb-ai-boilerplate)** — A starter structure for experimenting with Python-based AI agents and reusable prompts.  
+  `Python` · `OpenAI-compatible APIs`
 
-**Tecnologías:** PHP, Laravel, PostgreSQL, JavaScript, React
+### Education & Open Knowledge
 
----
+- [Java Learning Repository](https://github.com/cr1085/JavaClassRepository) — Learning resources, classes and practical exercises.
+- [Python EDA Repository](https://github.com/cr1085/EdaRepository) — Exploratory data analysis exercises using Python and Google Colab.
+- [PHP Learning Repository](https://github.com/cr1085/PhpRepository) — PHP learning resources.
+- [Node.js Repository](https://github.com/cr1085/NodeRepository) — Node.js learning resources.
 
-## Senior Developer — Zuky Tech
-<!-- **2023 – 2025 | Remote** -->
+## / TECHNOLOGY
 
-- Desarrollo de aplicaciones PWA de alto rendimiento
-- Optimización frontend y backend
-- Integración de sistemas empresariales
-- Mejora de escalabilidad y performance
+<div align="center">
 
-**Tecnologías:** React, TypeScript, Node.js, APIs REST
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
 
----
+</div>
 
-## Docente e Ingeniero de Sistemas / Líder de Desarrollo SGI — Corporación Universitaria Rafael Núñez
-<!-- **2018 – 2022 | Cartagena, Colombia** -->
+## / EXPERIENCE & TEACHING
 
-- Desarrollo de soluciones tecnológicas para SGI
-- Formación académica en programación
-- Liderazgo técnico en proyectos institucionales
-- Desarrollo y mantenimiento de plataformas educativas
+My professional work includes software development, technical coordination, higher education and technical training. I have contributed to initiatives involving Java, React, Node.js, artificial intelligence, data analysis and software engineering.
 
-**Tecnologías:** PHP, JavaScript, MySQL, HTML, CSS
+I enjoy translating complex technical concepts into practical learning experiences. My teaching and mentoring work has reached **350+ learners** across programming and technology topics.
 
----
+## / WORK TOGETHER
 
-## Desarrollador Senior — CIC Colombia
-<!-- **2017 | Bogotá, Colombia** -->
+I'm interested in connecting with:
 
-- Desarrollo de aplicaciones empresariales en .NET
-- Participación en proyectos corporativos
-- Optimización de procesos internos
+- International teams looking for a senior software engineer or backend developer.
+- Startups building AI-enabled products and automation workflows.
+- Businesses that need web applications, integrations or technical modernization.
+- Open-source maintainers and developers interested in practical collaboration.
+- Educational organizations seeking software engineering and AI training.
 
-**Tecnologías:** .NET, SQL Server, C#
-
----
-
-## Ingeniero de Sistemas — Autobiseles
-<!-- **2013 – 2014 | Cartagena, Colombia** -->
-
-- Soporte de infraestructura tecnológica
-- Gestión de redes e inventarios
-- Desarrollo de soluciones web en PHP y SQL
-
-**Tecnologías:** PHP, SQL, Redes, HTML
+**Portfolio:** [cr1085.github.io](https://cr1085.github.io/)  
+**LinkedIn:** [Cristian Cuadrado](https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/)  
+**3CB Soluciones:** [WhatsApp contact](https://wa.me/573170582873)
 
 ---
 
-# Educacion & certificados
+<div align="center">
 
-## Ingeniería de Sistemas
-<!-- **Corporación Universitaria Rafael Núñez**   -->
-<!-- 2012   -->
-Cartagena, Colombia
+### BUILD WITH PURPOSE. ENGINEER WITH CURIOSITY.
 
-### Programación
-<!-- **SENA — 2009** -->
+**From Colombia to the world · 3CB Soluciones Tecnológicas**
 
-- Desarrollo web con HTML y JavaScript
-- Fundamentos frontend
-- Programación web básica
-- Programación en php
-- Programación en java con énfasis a POO
-
----
-
-## Certificaciones y Reconocimientos
-
-- Mentor Técnico — Talento Tech MinTIC
-- Docente Ejecutor — Talento Tech
-- Participación en maratones de programación ACIS
-- Formación en Inteligencia Artificial aplicada
-- Capacitación de más de 350 estudiantes en programación
-- Liderazgo de proyectos académicos y empresariales
-
----
-
-# Technical Skills
-
-## Backend
-- Laravel
-- Node.js
-- Express
-- PHP
-- Java
-- Python
-
-## Frontend
-- React
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- TailwindCSS
-
-## Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Firebase
-
-## AI & Data
-- Machine Learning
-- Deep Learning
-- Jupyter Notebook
-- Google Colab
-
-## Tools & DevOps
-- Git
-- Linux
-- Docker
-- REST APIs
-- Agile Methodologies
-
----
-
-#  PLAN OXÍGENO — Rescate Web 24H
-
-Muchos negocios pierden clientes por webs:
-
-- lentas  
-- caídas  
-- sin SSL  
-- inseguras  
-- con errores 500  
-- hackeadas  
-- mal configuradas  
-- invisibles en Google  
-
-💡 El **90% de las webs en la Costa Caribe tienen fallas graves** que la mayoría de dueños ni saben que existen.
-
-Por eso creé el **Plan Oxígeno**:
-
-###  ¿Qué incluye?
-
-- Reparación de errores críticos  
-- Restauración de backups  
-- Configuración correcta de SSL  
-- Aceleración de carga (Core Web Vitals)  
-- Corrección de SEO técnico  
-- Limpieza de malware  
-- Optimización de base de datos  
-- Revisión completa en 24H  
-
-###  Resultados típicos:
-- Páginas 3× más rápidas  
-- De 20 errores críticos → 0  
-- SEO real con impacto en Google Maps  
-- Una web que VENDE  
-
-➡ **WhatsApp directo:** https://wa.me/573170582873
-
----
-
-
-#  ¿Qué más puedo hacer?
-
-### ✔ Desarrollo Full Stack (Python, Django, Laravel, Node.js, Angular, React)  
-### ✔ APIs robustas y seguras  
-### ✔ PWAs y apps móviles  
-### ✔ Automatizaciones y scripts para empresas  
-### ✔ Análisis de datos e IA aplicada  
-### ✔ Mentorías 1:1 para desarrolladores  
-### ✔ Consultoría técnica para empresas y startups  
-
----
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/header.png)
-
----                                                                                                                       
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/roadmapimpulsatucarrera.png)
-
----
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/header.png)
-
----
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/infografiavibecoding.png)
-
----
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/header.png)
-
----
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/infografiachatgpt.png)
-
----
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/header.png)
-
----
-
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/infografiaclaude.png)
-
-
----
-
-⚠️ Nota sobre la calidad del audio
-
-Algunos de los videos de estos cursos pueden tener un audio que no es totalmente profesional.
-Actualmente no cuento con equipos de grabación avanzados, pero quiero dejar claro que:
-
-👉 el contenido es completamente entendible,
-👉 cada explicación está bien desarrollada,
-👉 y puedes estudiar sin problema con el material disponible.
-
-Mi objetivo con este repositorio es aportar a la comunidad, compartir conocimiento real y ayudar a más personas a aprender Java y los otros lenguajes que he aprendido a lo largo de mi carrera, incluso con recursos limitados.
-Gracias por la comprensión y por apoyar este proyecto. 💛
-
----
-
-
-# Aportes para la comunidad
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/javanovatos.png)
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerroadmapjava.png)
-
-[![GitHub](https://img.shields.io/badge/GitHub-java-181717?style=for-the-badge&logo=github)](https://github.com/cr1085/JavaClassRepository)
-
----
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headernode.png)
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerroadmapnodejs.png)
-
-[![github](https://img.shields.io/badge/github-node-181717?style=for-the-badge&logo=github)](https://github.com/cr1085/NodeRepository)
-
----
-
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerphp.png)
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerroadmapphp.png)
-
-
-[![github](https://img.shields.io/badge/github-php-181717?style=for-the-badge&logo=github)](https://github.com/cr1085/PhpRepository.git)
-
----
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerjavascript.png)
-
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerrutajs.png)
-
-
-
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-java-181717?style=for-the-badge&logo=github)](https://github.com/cr1085/JavaClassRepository) -->
-
----
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerpython.png)
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerroadmappython.png)
-
-[![github](https://img.shields.io/badge/github-python-181717?style=for-the-badge&logo=github)](https://github.com/cr1085/PythonRepository)
-
-
----
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headereda.png)
-
-[![github](https://img.shields.io/badge/github-eda-181717?style=for-the-badge&logo=github)](https://github.com/cr1085/EdaRepository)
-
-
----
-# Productos de 3cb soluciones para vender
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerventas.png)
-
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-java-181717?style=for-the-badge&logo=github)](https://github.com/cr1085/JavaClassRepository) -->
-
----
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headermente.png)
-
-[![github](https://img.shields.io/badge/github-mente-181717?style=for-the-badge&logo=github)](https://github.com/cr1085/salesmind_version_3.0.0)
-
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerlexia.png)
-
-[![github](https://img.shields.io/badge/github-lexia-181717?style=for-the-badge&logo=github)](https://github.com/cr1085/LexIA-Junior-PostgreSQL)
-
----
-
-#  Tecnologías y Skills
-
-**Lenguajes:**  
-Python · Java · JavaScript · TypeScript · PHP · GDScript · C/C++ · C# · SwiftUI · VB  
-  
-**Backend:**  
-Django · Flask · Laravel · Node.js · Express  
-  
-**Frontend:**  
-Angular · React · HTML5 · CSS3 · SASS  
-  
-**Bases de datos:**  
-PostgreSQL · MySQL · MongoDB · Firebase  
-  
-**IA / ML:**  
-Jupyter · Google Colab · ML/DL básico-avanzado  
-  
-**Otros:**  
-Git · Linux · Integraciones API · Seguridad Web
-
----
-
-#  Proyectos Destacados
-
-| Proyecto | Tecnologías | Descripción |
-|---------|-------------|-------------|
-| **Sistema de Ventas** | Laravel · PostgreSQL | Gestión de ventas, inventario y reportes para pymes. |
-| **App de Tareas Angular** | Angular · Node.js · JWT | SPA moderna con login y API segura. |
-| **Auto Backup Script** | Python | Automatiza respaldos diarios de bases de datos. |
-| **Videojuego Indie** | Godot · GDScript | Mecánicas, IA básica y prototipos. |
-| **API REST Modular** | Node.js · Express · MongoDB | Arquitectura limpia y escalable. |
-
----
-
-# Algunos logros relevantes
-
-- Más de **350 estudiantes** formados (Java, React, Node.js e IA).  
-- Entrenador y participante en competencias ACIS nacionales e internacionales.  
-- Líder técnico en universidades e instituciones educativas.  
-- Desarrollo y optimización de sistemas para **empresas reales** en Colombia.  
-
----
-
-#  ¿Hablamos?
-
-# Contactos principales
-
- **Rescate Web (24H):**  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/573170582873)
-
- **Portafolio:**  
-[![Portafolio](https://img.shields.io/badge/Portafolio-Proyectos-000000?style=for-the-badge&logo=visual-studio-code)](https://cr1085.github.io/)
-
- **LinkedIn:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-cuadrado-beltran-983ba126/)
-
----
-
-##  Mi misión  
-**Transformar problemas en soluciones, y dejar huella a través del software.**  
-
----
-
-![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headertwo.png)
+</div>
